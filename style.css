@@ -306,7 +306,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    width: 100%;
+    width: auto;
     height: auto;
 }
 
